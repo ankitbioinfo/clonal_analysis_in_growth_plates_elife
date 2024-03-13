@@ -18,3 +18,6 @@ We also generate spatial profiles along the resting zone to the hypertrophic zon
 
 These scripts are self-explanatory, with each task organized into separate folders. If you wish to execute these scripts, kindly use them and cite our manuscript. For assistance in running these scripts, please do not hesitate to contact me via email [ankitplusplus[]gmail.com]
 
+Reference: Sarah Rubin, Ankit Agrawal, Anne Seewald, Paul Villoutreix, Adrian Baule, Elazar Zelzer
+Bone elongation in the embryo occurs without column formation in the growth plate (BioRxiv)
+(doi: https://doi.org/10.1101/2023.11.14.567062)
