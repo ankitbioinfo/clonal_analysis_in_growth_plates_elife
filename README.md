@@ -16,7 +16,7 @@ Additionally, these scripts generate random clones from unlabeled nuclei for com
 
 We also generate spatial profiles along the resting zone to the hypertrophic zone of the growth plate in the X-axis, measuring various properties along the Y-axis. These properties encompass clone size, sphericity, angle between the principal component 1 (PC1) of the clone and the long axis of the bone, radius of gyration, volume, clone density, surface area, volume fraction, column height, allometric properties (ratio of volume^(2/3) to surface area), average degree (or coordination number) of the clone, principal components PC1/2/3 of the clones, ratios of PC2/PC1, PC3/PC1, and PC3/PC2, as well as local/global order parameters.
 
-These scripts are self-explanatory, with each task organized into separate folders. If you wish to execute these scripts, kindly use them and cite our manuscript. For assistance in running these scripts, please do not hesitate to contact me via email [ankitplusplus[]gmail.com]
+These scripts are self-explanatory, with each task organized into separate folders. If you wish to execute these scripts, kindly use them and cite our manuscript. For assistance in running these scripts, please do not hesitate to contact me via email [ankitplusplus[@]gmail.com]
 
 Reference: Sarah Rubin, Ankit Agrawal, Anne Seewald, Paul Villoutreix, Adrian Baule, Elazar Zelzer
 "Bone elongation in the embryo occurs without column formation in the growth plate" (BioRxiv 2023)
