@@ -21,3 +21,6 @@ These scripts are self-explanatory, with each task organized into separate folde
 Reference: Sarah Rubin, Ankit Agrawal, Anne Seewald, Paul Villoutreix, Adrian Baule, Elazar Zelzer
 "Bone elongation in the embryo occurs without column formation in the growth plate" (BioRxiv 2023)
 (doi: https://doi.org/10.1101/2023.11.14.567062)
+
+## LICENSE 
+[MIT License](LICENSE)
