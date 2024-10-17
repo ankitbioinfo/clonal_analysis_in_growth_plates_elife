@@ -19,7 +19,7 @@ We also generate spatial profiles along the resting zone to the hypertrophic zon
 These scripts are self-explanatory, with each task organized into separate folders. If you wish to execute these scripts, kindly use them and cite our manuscript. For assistance in running these scripts, please do not hesitate to contact me via email [ankitplusplus[@]gmail.com]
 
 Reference: Sarah Rubin, Ankit Agrawal, Anne Seewald, Meng-Jia Lian, Olivia Gottdenker, Paul Villoutreix, Adrian Baule, Tomer Stern and Elazar Zelzer
-"Limited column formation in the embryonic growth plate implies divergent growth mechanisms during pre- and postnatal bone development" (BioRxiv 2023)
+"Limited column formation in the embryonic growth plate implies divergent growth mechanisms during pre- and postnatal bone development" (eLife 2024)
 (https://elifesciences.org/articles/95289)
 
 
